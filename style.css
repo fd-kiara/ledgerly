@@ -278,6 +278,10 @@ a, header{
 /* media query for mbl */
 
 @media (max-width: 768px) {
+
+    .logo{
+        padding-right: 13px;
+    }
     header{
         padding: 10px;
     }
